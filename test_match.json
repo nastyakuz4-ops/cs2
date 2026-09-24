@@ -1,5 +1,5 @@
 {
-  "matchid": "test_match",
+  "matchid": 1,
   "num_maps": 1,
   "players_per_team": 5,
   "maplist": ["de_mirage"],
