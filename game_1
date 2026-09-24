@@ -19,17 +19,23 @@
   },
   "team2": {
     "name": "CosySoft",
-///обновить
+///обновить ники
     "players": {
-      "76561198137580908": "R1len",
-      "76561198803852303": "DoBr0e",
-      "76561198105426145": "Ne0n",
-      "76561198212265781": "Player 9",
-      "76561198198812767": "Батракан"
+      "76561198090709377": "Дядич",
+      "76561198071667088": "mrToshkin",
+      "76561197995626886": "iip2ii",
+      "76561198979547990": "p1roman",
+      "76561199044303064": "swap commend"
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198XXXXXXXX1": "Observer 1",
+      "76561198XXXXXXXX2": "Observer 2"
     }
   },
   "cvars": {
-    "hostname": "FORTECH CS2 CUP | TEST",
+    "hostname": "FORTECH CS2 CUP | Group Stage",
     "mp_friendlyfire": "1"
   }
 }
