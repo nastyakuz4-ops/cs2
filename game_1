@@ -2,8 +2,7 @@
   "matchid": 251,
   "num_maps": 1,
   "players_per_team": 5,
-//обновить
-  "maplist": ["de_mirage"],
+  "maplist": ["de_dust2"],
   "map_sides": ["knife"],
   "clinch_series": true,
   "team1": {
@@ -28,7 +27,7 @@
   },
   "spectators": {
     "players": {
-      "76561198XXXXXXXX1": "Observer 1",
+      "- 76561198082134446": "fortech_hr",
       "76561198XXXXXXXX2": "Observer 2"
     }
   },
