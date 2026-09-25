@@ -1,10 +1,8 @@
 {
-//обновить
-  "matchid": 5,
+  "matchid": 252,
   "num_maps": 1,
   "players_per_team": 5,
-//обновить
-  "maplist": ["de_mirage"],
+  "maplist": ["de_dust2"],
   "map_sides": ["knife"],
   "clinch_series": true,
   "team1": {
