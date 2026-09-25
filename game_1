@@ -27,8 +27,8 @@
   },
   "spectators": {
     "players": {
-      "- 76561198082134446": "fortech_hr",
-      "76561198XXXXXXXX2": "Observer 2"
+      "76561198082134446": "fortech_hr",
+      "76561199192212448": "Observer"
     }
   },
   "cvars": {
