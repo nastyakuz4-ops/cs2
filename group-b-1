@@ -1,0 +1,38 @@
+{
+  "matchid": 252,
+  "num_maps": 1,
+  "players_per_team": 5,
+  "maplist": ["de_dust2"],
+  "map_sides": ["knife"],
+  "clinch_series": true,
+  "team1": {
+    "name": "Mutant Union",
+    "players": {
+      "76561199404761030": "venezruk",
+      "76561197998638278": "JopkaCats",
+      "76561198267404935": "ZHaba",
+      "76561198796315499": "Telmoryn",
+      "76561198120071990": "AleXD"
+    }
+  },
+  "team2": {
+    "name": "Fusion",
+    "players": {
+      "76561198224330420": "sky",
+      "76561198376123406": "sssoultip",
+      "76561199087014830": "bergamonstr",
+      "76561199643399199": "qzj",
+      "76561198057568735": "immortalis"
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198082134446": "fortech_hr",
+      "76561199192212448": "Observer"
+    }
+  },
+  "cvars": {
+    "hostname": "FORTECH CS2 CUP | Group Stage",
+    "mp_friendlyfire": "1"
+  }
+}
