@@ -1,0 +1,38 @@
+{
+  "matchid": 12,
+  "num_maps": 1,
+  "players_per_team": 5,
+  "maplist": ["de_mirage"],
+  "map_sides": ["knife"],
+  "clinch_series": true,
+  "team1": {
+    "name": "TEST TEAM 1",
+    "players": {
+      "76561198019121130": "Player 1",
+      "76561198275408917": "kotm8",
+      "76561198003121891": "Player 3",
+      "76561199168379080": "Player 4",
+      "76561198170575303": "goldenp2000"
+    }
+  },
+  "team2": {
+    "name": "TEST TEAM 2",
+    "players": {
+      "76561198082134446": "R1len",
+      "76561198803852303": "DoBr0e",
+      "76561198105426145": "Ne0n",
+      "76561198212265781": "Player 9",
+      "76561198198812767": "Батракан"
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198082134445": "Observer 1",
+      "76561198XXXXXXXX2": "Observer 2"
+    }
+  },
+  "cvars": {
+    "hostname": "FORTECH CS2 CUP | TEST",
+    "mp_friendlyfire": "1"
+  }
+}
