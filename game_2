@@ -25,6 +25,12 @@
       "76561198057568735": "immortalis"
     }
   },
+  "spectators": {
+    "players": {
+      "76561198082134446": "fortech_hr",
+      "76561199192212448": "Observer"
+    }
+  },
   "cvars": {
     "hostname": "FORTECH CS2 CUP | Group Stage",
     "mp_friendlyfire": "1"
