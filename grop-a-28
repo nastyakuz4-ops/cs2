@@ -1,0 +1,38 @@
+{
+  "matchid": 281,
+  "num_maps": 1,
+  "players_per_team": 5,
+  "maplist": ["de_ancient"],
+  "map_sides": ["knife"],
+  "clinch_series": true,
+  "team1": {
+    "name": "Double OneTapp",
+    "players": {
+      "76561198104435781": "Foxyboy",
+      "76561198170721097": "TENSE",
+      "76561198872556631": "gabagool",
+      "76561198041006405": "jozefg",
+      "76561198298758112": "3n3J0ta10"
+    }
+  },
+  "team2": {
+    "name": "Далее",
+    "players": {
+      "76561199072164838": "LEVIOFAN",
+      "76561198352803865": "X-QR3T",
+      "76561199072515414": "loom",
+      "76561198034492023": "Barma1ey",
+      "76561198150706004": "zeguha",
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198082134446": "fortech_hr",
+      "76561199192212448": "Observer"
+    }
+  },
+  "cvars": {
+    "hostname": "FORTECH CS2 CUP | Group Stage",
+    "mp_friendlyfire": "1"
+  }
+}
