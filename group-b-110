@@ -1,0 +1,38 @@
+{
+  "matchid": 1102,
+  "num_maps": 1,
+  "players_per_team": 5,
+  "maplist": ["de_dust2"],
+  "map_sides": ["knife"],
+  "clinch_series": true,
+  "team1": {
+    "name": "Fusion",
+    "players": {
+      "76561198224330420": "sky",
+      "76561198376123406": "sssoultip",
+      "76561199087014830": "bergamonstr",
+      "76561199643399199": "qzj",
+      "76561198057568735": "immortalis"
+    }
+  },
+  "team2": {
+    "name": "Probank",
+    "players": {
+      "76561198080408015": "dimages",
+      "76561198056028605": "superserewka",
+      "76561199786073860": "охрана лоутаба",
+      "76561198076486458": "DarkZZZerG",
+      "76561198115781770": "maxkiller"
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198082134446": "fortech_hr",
+      "76561199192212448": "Observer"
+    }
+  },
+  "cvars": {
+    "hostname": "FORTECH CS2 CUP | Group Stage",
+    "mp_friendlyfire": "1"
+  }
+}
