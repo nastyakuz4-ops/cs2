@@ -1,0 +1,42 @@
+{
+  "matchid": 1110100,
+  "num_maps": 3,
+  "players_per_team": 3,
+  "maplist": [
+    "de_ancient",
+    "de_nuke",
+    "de_anubis"
+  ],
+  "map_sides": [
+    "knife",
+    "knife",
+    "knife"
+  ],
+  "clinch_series": true,
+  "team1": {
+    "name": "CosySoft",
+    "players": {
+      "76561199044303064": "Shtr3ben",
+      "76561198071667088": "mrToshkin",
+      "76561198979547990": "p1roman"
+    }
+  },
+  "team2": {
+    "name": "Ранее",
+    "players": {
+      "76561198111845872": "Kir",
+      "76561198138180889": "LXST808",
+      "76561198170164885": "Zero_Tolerance"
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198082134446": "fortech",
+      "76561199192212448": "Observer"
+    }
+  },
+  "cvars": {
+    "hostname": "FORTECH CS2 CUP | Group Stage",
+    "mp_friendlyfire": "1"
+  }
+}
