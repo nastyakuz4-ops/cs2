@@ -1,0 +1,38 @@
+{
+  "matchid": 13102,
+  "num_maps": 1,
+  "players_per_team": 5,
+  "maplist": ["de_nuke"],
+  "map_sides": ["knife"],
+  "clinch_series": true,
+  "team1": {
+  "name": "Probank",
+    "players": {
+      "76561198099160825": "fatasstep",
+      "76561198115781770": "maxkiller",
+      "76561199786073860": "охрана лоутаба",
+      "76561198076486458": "DarkZZZerG",
+      "76561198168626462": "Mitrandir"
+    }
+  },
+  "team2": {
+   "name": "CosySoft",
+    "players": {
+      "76561199044303064": "Shtr3ben",
+      "76561198090709377": "keane",
+      "76561198071667088": "mrToshkin",
+      "76561197995626886": "p2",
+      "76561198979547990": "p1roman",
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198082134446": "fortech",
+      "76561199192212448": "Observer"
+    }
+  },
+  "cvars": {
+    "hostname": "FORTECH CS2 CUP Play off",
+    "mp_friendlyfire": "1"
+  }
+}
