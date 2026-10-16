@@ -1,0 +1,39 @@
+{
+  "matchid": 16101,
+  "num_maps": 1,
+  "players_per_team": 5,
+  "maplist": ["de_dust2"],
+  "map_sides": ["knife"],
+  "clinch_series": true,
+  "team1": {
+  "name": "Mutant Union",
+    "players": {
+      "76561199404761030": "venezruk",
+      "76561197998638278": "JopkaCats",
+      "76561198267404935": "ZHaba",
+      "76561198796315499": "Telmoryn",
+      "76561198120071990": "AleXD"
+    }
+  },
+  "team2": {
+   "name": "CosySoft",
+    "players": {
+      "76561199044303064": "Shtr3ben",
+      "76561198090709377": "keane",
+      "76561198071667088": "mrToshkin",
+      "76561197995626886": "p2",
+      "76561198979547990": "p1roman",
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198082134446": "fortech",
+      "76561198010030377": "fortech Tim",
+      "76561199192212448": "Observer"
+    }
+  },
+  "cvars": {
+    "hostname": "FORTECH CS2 CUP Play off",
+    "mp_friendlyfire": "1"
+  }
+}
