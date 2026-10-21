@@ -1,0 +1,46 @@
+{
+  "matchid": 21101,
+  "num_maps": 3,
+  "players_per_team": 5,
+  "maplist": [
+    "de_inferno",
+    "de_nuke",
+    "de_dust2"
+  ],
+  "map_sides": [
+    "knife",
+    "knife",
+    "knife"
+  ],
+  "clinch_series": true,
+  "team1": {
+    "name": "Далее",
+    "players": {
+      "76561199072164838": "LEVIOFAN",
+      "76561198352803865": "X-QR3T",
+      "76561199072515414": "loom",
+      "76561198034492023": "Barma1ey",
+      "76561198150706004": "zeguha"
+    }
+  },
+  "team2": {
+   "name": "Mutant Union",
+    "players": {
+      "76561199404761030": "venezruk",
+      "76561197998638278": "JopkaCats",
+      "76561198267404935": "ZHaba",
+      "76561198796315499": "Telmoryn",
+      "76561198120071990": "AleXD"
+    }
+  },
+  "spectators": {
+    "players": {
+      "76561198082134446": "fortech",
+      "76561199192212448": "Observer"
+    }
+  },
+  "cvars": {
+    "hostname": "FORTECH CS2 CUP FINAL",
+    "mp_friendlyfire": "1"
+  }
+}
